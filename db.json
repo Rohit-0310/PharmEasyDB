@@ -1430,6 +1430,433 @@
       "dis_price": 581.25,
       "brand": "REVITAL",
       "Exp_Date": "30/18/2023"
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": 101,
+      "title": "Nycil Cool Herbal Prickly Heat Talcum Powder, 150gm (Cool Herbal 50g Free)",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/T84523/nycil-cool-herbal-prickly-heat-talcum-powder-150gm-cool-herbal-50g-free-2-1645195003.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 10,
+      "price": "₹199.00",
+      "star": 3.5,
+      "rating": 35,
+      "discount": "37%",
+      "dis_price": 125.37,
+      "brand": "NYCIL",
+      "Exp_Date": "30/18/2024"
+    },
+    {
+      "id": 102,
+      "title": "Nycil Thick And Soft Sanitizing Wipes - 80 Wipes",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/A72324/nycil-thick-and-soft-sanitizing-wipes-80-wipes-2-1641791415.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 10,
+      "price": "₹65.00",
+      "star": 4.6,
+      "rating": 35,
+      "discount": "36%",
+      "dis_price": 41.6,
+      "brand": "NYCIL",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 103,
+      "title": "Nycil Cool Classic Prickly Heat Talcum Powder, 150gm (Cool Herbal 50g Free)",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/J84379/nycil-cool-classic-prickly-heat-talcum-powder-150gm-cool-herbal-50g-free-2-1646115467.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 10,
+      "price": "75",
+      "star": 3.6,
+      "rating": 86,
+      "discount": "29%",
+      "dis_price": 53.25,
+      "brand": "NYCIL",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 104,
+      "title": "Nycil Cool Gulabjal Prickly Heat Talcum Powder, 400gm",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/T15681/nycil-cool-gulabjal-prickly-heat-talcum-powder-400gm-2-1645195157.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 10,
+      "price": "₹58",
+      "star": 2.7,
+      "rating": 34,
+      "discount": "29%",
+      "dis_price": 41.18,
+      "brand": "NYCIL",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 105,
+      "title": "Nycil Soothing Body Mist Aqua - 100ml",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/Q00345/nycil-soothing-body-mist-aqua-100ml-6.1-1641792004.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 10,
+      "price": "₹99.00",
+      "star": 4.5,
+      "rating": 34,
+      "discount": "29%",
+      "dis_price": 70.29,
+      "brand": "NYCIL",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 106,
+      "title": "Nycil Classic Prickly Heat Talcum Powder, 150gm (Cool Herbal 50g Free)",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/G94645/nycil-classic-prickly-heat-talcum-powder-150gm-cool-herbal-50g-free-2-1645195245.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 10,
+      "price": "₹53.00",
+      "star": 5,
+      "rating": 80,
+      "discount": "27%",
+      "dis_price": 38.69,
+      "brand": "NYCIL",
+      "Exp_Date": "30/18/2023"
+    },
+
+    {
+      "id": 107,
+      "title": "Nycil Cool Aloe Prickly Heat Powder Bottle Of 150 G (Cool Herbal 50g Free)",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/C97181/nycil-cool-aloe-prickly-heat-powder-bottle-of-150-g-cool-herbal-50g-free-2-1641788476.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 10,
+      "price": "₹188.7",
+      "star": 4.2,
+      "rating": 46,
+      "discount": "26%",
+      "dis_price": 188.7,
+      "brand": "NYCIL",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 108,
+      "title": "Nycil Cool Lime Prickly Heat Powder Bottle Of 150 G (Cool Herbal 50g Free)",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/J58385/nycil-cool-lime-prickly-heat-powder-bottle-of-150-g-cool-herbal-50g-free-2-1641788630.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 10,
+      "price": "₹645",
+      "star": 3.6,
+      "rating": 65,
+      "discount": "25%",
+      "dis_price": 483.75,
+      "brand": "NYCIL",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 109,
+      "title": "Nycil Cool Sandal Prickly Heat Talcum Powder, 150gm (Cool Herbal 50g Free)",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/W31762/nycil-cool-sandal-prickly-heat-talcum-powder-150gm-cool-herbal-50g-free-2-1645195481.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 10,
+      "price": "₹450",
+      "star": 5.4,
+      "rating": 68,
+      "discount": "25%",
+      "dis_price": 337.5,
+      "brand": "NYCIL",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 110,
+      "title": "Nycil Cool Aloe Prickly Heat Talcum Powder Bottle Of 150 G",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/A36940/nycil-cool-aloe-prickly-heat-talcum-powder-bottle-of-150-g-2-1641789449.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 10,
+      "price": "₹775",
+      "star": 3.5,
+      "rating": 34,
+      "discount": "25%",
+      "dis_price": 581.25,
+      "brand": "NYCIL",
+      "Exp_Date": "30/18/2023"
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": 111,
+      "title": "Hansaplast Fixation Tape (7.5cm X 9.14m)",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/A01900/hansaplast-fixation-tape-75cm-x-914m-2-1647863223.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 11,
+      "price": "₹199.00",
+      "star": 3.5,
+      "rating": 35,
+      "discount": "37%",
+      "dis_price": 125.37,
+      "brand": "HANSAPLAST",
+      "Exp_Date": "30/18/2024"
+    },
+    {
+      "id": 112,
+      "title": "Hansaplast Spot Bandage Jar Of 50",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/I47500/hansaplast-spot-bandage-jar-of-50-2-1647863060.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 11,
+      "price": "₹65.00",
+      "star": 4.6,
+      "rating": 35,
+      "discount": "36%",
+      "dis_price": 41.6,
+      "brand": "HANSAPLAST",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 113,
+      "title": "Hansaplast Corn Plaster Packet Of 4",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/I36107/hansaplast-corn-plaster-packet-of-4-2-1647863065.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 11,
+      "price": "75",
+      "star": 3.6,
+      "rating": 86,
+      "discount": "29%",
+      "dis_price": 53.25,
+      "brand": "HANSAPLAST",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 114,
+      "title": "Hansaplast Crepe Bandage 10 Cm X 400 Cm",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/H65004/hansaplast-crepe-bandage-10-cm-x-400-cm-2-1647863267.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 11,
+      "price": "₹58",
+      "star": 2.7,
+      "rating": 34,
+      "discount": "29%",
+      "dis_price": 41.18,
+      "brand": "HANSAPLAST",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 115,
+      "title": "Hansaplast Fixation Tape 1.25 Cm X 914 Cm",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/D77582/hansaplast-fixation-tape-125-cm-x-914-cm-2-1647863185.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 11,
+      "price": "₹99.00",
+      "star": 4.5,
+      "rating": 34,
+      "discount": "29%",
+      "dis_price": 70.29,
+      "brand": "HANSAPLAST",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 116,
+      "title": "Hansaplast Sport Wrist Brace - Medium",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/K04673/hansaplast-sport-wrist-brace-medium-1-1641790462.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 11,
+      "price": "₹53.00",
+      "star": 5,
+      "rating": 80,
+      "discount": "27%",
+      "dis_price": 38.69,
+      "brand": "HANSAPLAST",
+      "Exp_Date": "30/18/2023"
+    },
+
+    {
+      "id": 117,
+      "title": "Hansaplast Silver Healing Washproof - 50s",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/A77137/hansaplast-silver-healing-washproof-50s-2-1647863095.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 11,
+      "price": "₹188.7",
+      "star": 4.2,
+      "rating": 46,
+      "discount": "26%",
+      "dis_price": 188.7,
+      "brand": "HANSAPLAST",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 118,
+      "title": "Hansaplast Lion Belladona Plaster Packet Of 10",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/I47474/hansaplast-lion-belladona-plaster-packet-of-10-1-1643880272.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 11,
+      "price": "₹645",
+      "star": 3.6,
+      "rating": 65,
+      "discount": "25%",
+      "dis_price": 483.75,
+      "brand": "HANSAPLAST",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 119,
+      "title": "Hansaplast Patch Bandage Jar Of 50",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/I47496/hansaplast-patch-bandage-jar-of-50-2-1647863163.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 11,
+      "price": "₹450",
+      "star": 5.4,
+      "rating": 68,
+      "discount": "25%",
+      "dis_price": 337.5,
+      "brand": "HANSAPLAST",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 120,
+      "title": "Hansaplast Crepe Bandage 15 Cm X 400 Cm",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/Y82433/hansaplast-crepe-bandage-15-cm-x-400-cm-2-1647863054.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 11,
+      "price": "₹775",
+      "star": 3.5,
+      "rating": 34,
+      "discount": "25%",
+      "dis_price": 581.25,
+      "brand": "HANSAPLAST",
+      "Exp_Date": "30/18/2023"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": 121,
+      "title": "Glucon-D Instant Energy Health Drink Tangy Orange - 1kg Refill (Sipper Free)",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/H58568/glucon-d-instant-energy-health-drink-tangy-orange-1kg-refill-sipper-free-2-1649763977.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 12,
+      "price": "₹199.00",
+      "star": 3.5,
+      "rating": 35,
+      "discount": "37%",
+      "dis_price": 125.37,
+      "brand": "GLUCON-D",
+      "Exp_Date": "30/18/2024"
+    },
+    {
+      "id": 122,
+      "title": "Glucon-D Instant Energy Health Drink Regular - 450gm Refill (Extra 50gm Free)",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/P18914/glucon-d-instant-energy-health-drink-regular-450gm-refill-extra-50gm-free-2-1645195113.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 12,
+      "price": "₹65.00",
+      "star": 4.6,
+      "rating": 35,
+      "discount": "36%",
+      "dis_price": 41.6,
+      "brand": "GLUCON-D",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 123,
+      "title": "Glucon-D Nimbu Paani Health Powder Box Of 1 Kg",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/I09235/glucon-d-nimbu-paani-health-powder-box-of-1-kg-2-1641787708.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 12,
+      "price": "75",
+      "star": 3.6,
+      "rating": 86,
+      "discount": "29%",
+      "dis_price": 53.25,
+      "brand": "GLUCON-D",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 124,
+      "title": "Glucon-D Instant Energy Health Drink Nimbu Pani - 1kg Refill (Sipper Free)",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/Q99452/glucon-d-instant-energy-health-drink-nimbu-pani-1kg-refill-sipper-free-2-1649763918.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 12,
+      "price": "₹58",
+      "star": 2.7,
+      "rating": 34,
+      "discount": "29%",
+      "dis_price": 41.18,
+      "brand": "GLUCON-D",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 125,
+      "title": "Glucon-D Instant Energy Health Drink Regular - 1kg Jar (250 G Tangy Orange Refill Free)",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/X84546/glucon-d-instant-energy-health-drink-regular-1kg-jar-250-g-tangy-orange-refill-free-2-1645195511.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 12,
+      "price": "₹99.00",
+      "star": 4.5,
+      "rating": 34,
+      "discount": "29%",
+      "dis_price": 70.29,
+      "brand": "GLUCON-D",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 126,
+      "title": "Glucon-D Tangy Orange Health Powder Box Of 1 Kg",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/I15014/glucon-d-tangy-orange-health-powder-box-of-1-kg-2-1641787932.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 12,
+      "price": "₹53.00",
+      "star": 5,
+      "rating": 80,
+      "discount": "27%",
+      "dis_price": 38.69,
+      "brand": "GLUCON-D",
+      "Exp_Date": "30/18/2023"
+    },
+  
+    {
+      "id": 127,
+      "title": "Glucon-D Instant Energy Health Drink Tangy Orange - 400gm Jar",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/T04453/glucon-d-instant-energy-health-drink-tangy-orange-400gm-jar-2-1645194971.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 12,
+      "price": "₹188.7",
+      "star": 4.2,
+      "rating": 46,
+      "discount": "26%",
+      "dis_price": 188.7,
+      "brand": "GLUCON-D",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 128,
+      "title": "Glucon-D Regular Instant Energy Powder Jar Of 1 Kg",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/085060/glucon-d-regular-instant-energy-powder-jar-of-1-kg-2-1641398907.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 12,
+      "price": "₹645",
+      "star": 3.6,
+      "rating": 65,
+      "discount": "25%",
+      "dis_price": 483.75,
+      "brand": "GLUCON-D",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 129,
+      "title": "Glucon-D Instant Energy Health Drink Tangy Orange - 450gm Refill (Tiffin Free)",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/S98686/glucon-d-instant-energy-health-drink-tangy-orange-450gm-refill-tiffin-free-2-1645195106.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 12,
+      "price": "₹450",
+      "star": 5.4,
+      "rating": 68,
+      "discount": "25%",
+      "dis_price": 337.5,
+      "brand": "GLUCON-D",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 130,
+      "title": "Glucon-D Instant Energy Health Drink Nimbu Pani - 450gm Refill (Tiffin Free)",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/R96220/glucon-d-instant-energy-health-drink-nimbu-pani-450gm-refill-tiffin-free-2-1645195090.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 12,
+      "price": "₹775",
+      "star": 3.5,
+      "rating": 34,
+      "discount": "25%",
+      "dis_price": 581.25,
+      "brand": "GLUCON-D",
+      "Exp_Date": "30/18/2023"
     }
   ]
 }
