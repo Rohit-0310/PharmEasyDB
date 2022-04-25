@@ -1,9 +1,8 @@
 {
-  "cart": [],
-  "register":[],
-  "address":[],
-
-  "category": [
+    "cart": [],
+    "register":[],
+    "address":[],
+    "category": [
     {
       "id": 1,
       "cat_title": "Dabur",
@@ -1857,6 +1856,870 @@
       "dis_price": 581.25,
       "brand": "GLUCON-D",
       "Exp_Date": "30/18/2023"
-    }
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": 131,
+      "title": "Everherb Garlic 500mg - Pure Garlic Bulb Extracts - Improves Blood Circulation - Bottle Of 60",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/O30112/everherb-garlic-500mg-pure-garlic-bulb-extracts-improves-blood-circulation-bottle-of-60-2-1641789439.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 13,
+      "price": "₹199.00",
+      "star": 3.5,
+      "rating": 35,
+      "discount": "37%",
+      "dis_price": 125.37,
+      "brand": "EVERHERB",
+      "Exp_Date": "30/18/2024"
+    },
+    {
+      "id": 132,
+      "title": "Everherb Pain Relief Oil - Blend Of 8 Powerful Herbal Ingredients - 100 Ml",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/K40120/everherb-pain-relief-oil-blend-of-8-powerful-herbal-ingredients-100-ml-1-1643880448.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 13,
+      "price": "₹65.00",
+      "star": 4.6,
+      "rating": 35,
+      "discount": "36%",
+      "dis_price": 41.6,
+      "brand": "EVERHERB",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 133,
+      "title": "Everherb Moringa (Drum Stick) - Immunity Booster Capsules - Natural Multivitamin - Bottle Of 60",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/H62199/everherb-moringa-drum-stick-immunity-booster-capsules-natural-multivitamin-bottle-of-60-2-1641788912.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 13,
+      "price": "75",
+      "star": 3.6,
+      "rating": 86,
+      "discount": "29%",
+      "dis_price": 53.25,
+      "brand": "EVERHERB",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 134,
+      "title": "Everherb Eucalyptus Oil (Nilgiri Oil)",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/U61399/everherb-eucalyptus-oil-nilgiri-oil-1-1643876656.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 13,
+      "price": "₹58",
+      "star": 2.7,
+      "rating": 34,
+      "discount": "29%",
+      "dis_price": 41.18,
+      "brand": "EVERHERB",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 135,
+      "title": "Everherb Jointcare - Blend Of 9 Powerful Herbs - Joint & Bone Health - Bottle Of 60 Tablets",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/Y79593/everherb-jointcare-blend-of-9-powerful-herbs-joint-bone-health-bottle-of-60-tablets-2-1643876387.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 13,
+      "price": "₹99.00",
+      "star": 4.5,
+      "rating": 34,
+      "discount": "29%",
+      "dis_price": 70.29,
+      "brand": "EVERHERB",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 136,
+      "title": "Everherb Amla Giloy Juice - Powerfull Immunity Booster - Rich In Vitamin C - 1 Litre",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/S16091/everherb-amla-giloy-juice-powerfull-immunity-booster-rich-in-vitamin-c-1-litre-2-1641792598.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 13,
+      "price": "₹53.00",
+      "star": 5,
+      "rating": 80,
+      "discount": "27%",
+      "dis_price": 38.69,
+      "brand": "EVERHERB",
+      "Exp_Date": "30/18/2023"
+    },
+  
+    {
+      "id": 137,
+      "title": "Everherb Ashwagandha - Immunity Booster Capsules - Anxiety & Stress Relief - Bottle Of 60",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1643879814.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 13,
+      "price": "₹188.7",
+      "star": 4.2,
+      "rating": 46,
+      "discount": "26%",
+      "dis_price": 188.7,
+      "brand": "EVERHERB",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 138,
+      "title": "Everherb Karela - Blood Sugar Control - Lowers Bad Cholestrol - Bottle Of 60",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/B55847/everherb-karela-blood-sugar-control-lowers-bad-cholestrol-bottle-of-60-2-1644387249.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 13,
+      "price": "₹645",
+      "star": 3.6,
+      "rating": 65,
+      "discount": "25%",
+      "dis_price": 483.75,
+      "brand": "EVERHERB",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 139,
+      "title": "Everherb Neem - Immunity Booster - Skin & Body Detoxifier - Bottle Of 60",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/D41806/everherb-neem-immunity-booster-skin-body-detoxifier-bottle-of-60-2-1641789019.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 13,
+      "price": "₹450",
+      "star": 5.4,
+      "rating": 68,
+      "discount": "25%",
+      "dis_price": 337.5,
+      "brand": "EVERHERB",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 140,
+      "title": "Everherb Shudh Shilajit, 15 G",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/C85844/everherb-shudh-shilajit-15-g-2-1641793276.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 13,
+      "price": "₹775",
+      "star": 3.5,
+      "rating": 34,
+      "discount": "25%",
+      "dis_price": 581.25,
+      "brand": "EVERHERB",
+      "Exp_Date": "30/18/2023"
+    },
+
+
+
+
+
+
+
+
+
+    
+
+
+    {
+      "id": 141,
+      "title": "Plum Bodylovin Drivin' Me Cherry Shower Gel- 240 Ml",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/P01575/plum-bodylovin-drivin-me-cherry-shower-gel-240-ml-2-1649767074.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 14,
+      "price": "₹199.00",
+      "star": 3.5,
+      "rating": 35,
+      "discount": "37%",
+      "dis_price": 125.37,
+      "brand": "PLUM",
+      "Exp_Date": "30/18/2024"
+    },
+    {
+      "id": 142,
+      "title": "Plum E-Luminence Simply Supple Cleansing Balm- 90 Gm",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/Y14812/plum-e-luminence-simply-supple-cleansing-balm-90-gm-2-1649766444.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 14,
+      "price": "₹65.00",
+      "star": 4.6,
+      "rating": 35,
+      "discount": "36%",
+      "dis_price": 41.6,
+      "brand": "PLUM",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 143,
+      "title": "Plum Bright Years Restorative Overnight Creme- 50 Ml",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/Y73170/plum-bright-years-restorative-overnight-creme-50-ml-2-1649766666.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 14,
+      "price": "75",
+      "star": 3.6,
+      "rating": 86,
+      "discount": "29%",
+      "dis_price": 53.25,
+      "brand": "PLUM",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 144,
+      "title": "Plum Bright Years Under-Eye Recovery Gel- 15 Ml",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/O84502/plum-bright-years-under-eye-recovery-gel-15-ml-2-1649767132.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 14,
+      "price": "₹58",
+      "star": 2.7,
+      "rating": 34,
+      "discount": "29%",
+      "dis_price": 41.18,
+      "brand": "PLUM",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 145,
+      "title": "Plum Candy Melts Vegan Lip Balm | Red Velvet Love- 12 Gm",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/O15569/plum-candy-melts-vegan-lip-balm-red-velvet-love-12-gm-2-1649767145.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 14,
+      "price": "₹99.00",
+      "star": 4.5,
+      "rating": 34,
+      "discount": "29%",
+      "dis_price": 70.29,
+      "brand": "PLUM",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 146,
+      "title": "Plum Bodylovin' Vanilla Vibes Body Mist- 150 Ml",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/L03143/plum-bodylovin-vanilla-vibes-body-mist-150-ml-2-1649767345.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 14,
+      "price": "₹53.00",
+      "star": 5,
+      "rating": 80,
+      "discount": "27%",
+      "dis_price": 38.69,
+      "brand": "PLUM",
+      "Exp_Date": "30/18/2023"
+    },
+
+    {
+      "id": 147,
+      "title": "Plum Bodylovin Hawaiian Rumba Shower Gel- 240 Ml",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/D61023/plum-bodylovin-hawaiian-rumba-shower-gel-240-ml-2-1649767599.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 14,
+      "price": "₹188.7",
+      "star": 4.2,
+      "rating": 46,
+      "discount": "26%",
+      "dis_price": 188.7,
+      "brand": "PLUM",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 148,
+      "title": "Plum E-Luminence Deep Moisturizing Creme- 50 Ml",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/L98823/plum-e-luminence-deep-moisturizing-creme-50-ml-2-1649767185.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 14,
+      "price": "₹645",
+      "star": 3.6,
+      "rating": 65,
+      "discount": "25%",
+      "dis_price": 483.75,
+      "brand": "PLUM",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 149,
+      "title": "Plum Green Tea Renewed Clarity Night Gel- 50 Ml",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/O33502/plum-green-tea-renewed-clarity-night-gel-50-ml-2-1649767286.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 14,
+      "price": "₹450",
+      "star": 5.4,
+      "rating": 68,
+      "discount": "25%",
+      "dis_price": 337.5,
+      "brand": "PLUM",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 150,
+      "title": "Plum Candy Melts Vegan Lip Balm | Mint-O-Coco- 12 Gm",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/J99621/plum-candy-melts-vegan-lip-balm-mint-o-coco-12-gm-2-1649767411.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 14,
+      "price": "₹775",
+      "star": 3.5,
+      "rating": 34,
+      "discount": "25%",
+      "dis_price": 581.25,
+      "brand": "PLUM",
+      "Exp_Date": "30/18/2023"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+  {
+    "id": 151,
+    "title": "Huggies Baby Wonder Pants Extra Small Size Diaper Pants - 90 Count",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/N85059/huggies-wonder-pants-extra-small-size-diaper-pants-90-count-2-1641792176.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 15,
+    "price": "₹199.00",
+    "star": 3.5,
+    "rating": 35,
+    "discount": "37%",
+    "dis_price": 125.37,
+    "brand": "HUGGIES",
+    "Exp_Date": "30/18/2024"
+  },
+  {
+    "id": 152,
+    "title": "Huggies Baby Premium Soft Pants, Extra Small Size Diaper Pants, 90 Count",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/O58899/huggies-premium-soft-pants-extra-small-size-diaper-pants-90-count-2-1645195901.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 15,
+    "price": "₹65.00",
+    "star": 4.6,
+    "rating": 35,
+    "discount": "36%",
+    "dis_price": 41.6,
+    "brand": "HUGGIES",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 153,
+    "title": "Huggies Baby Nature Care Pants, Small Size Diaper Pants, 82 Count",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/B95901/huggies-nature-care-pants-small-size-diaper-pants-82-count-2-1645195990.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 15,
+    "price": "75",
+    "star": 3.6,
+    "rating": 86,
+    "discount": "29%",
+    "dis_price": 53.25,
+    "brand": "HUGGIES",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 154,
+    "title": "Huggies Baby New Dry Small Size Diapers Combo Pack Of 2, 36 Counts Per Pack (72 Counts)",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/Y86494/huggies-new-dry-small-size-diapers-combo-pack-of-2-36-counts-per-pack-72-counts-2-1641792873.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 15,
+    "price": "₹58",
+    "star": 2.7,
+    "rating": 34,
+    "discount": "29%",
+    "dis_price": 41.18,
+    "brand": "HUGGIES",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 155,
+    "title": "Huggies Baby Premium Soft Pants, Extra Large (Xl) Size Diaper Pants, 14 Count",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/J00784/huggies-premium-soft-pants-extra-large-xl-size-diaper-pants-14-count-2-1645195877.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 15,
+    "price": "₹99.00",
+    "star": 4.5,
+    "rating": 34,
+    "discount": "29%",
+    "dis_price": 70.29,
+    "brand": "HUGGIES",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 156,
+    "title": "Huggies Baby New Dry Large Size Diapers - 52 Count",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/J82938/huggies-new-dry-large-size-diapers-52-count-2-1641792327.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 15,
+    "price": "₹53.00",
+    "star": 5,
+    "rating": 80,
+    "discount": "27%",
+    "dis_price": 38.69,
+    "brand": "HUGGIES",
+    "Exp_Date": "30/18/2023"
+  },
+
+  {
+    "id": 157,
+    "title": "Huggies Baby Nature Care Pants, Small Size Diaper Pants, 28 Count",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/T92805/huggies-nature-care-pants-small-size-diaper-pants-28-count-2-1645195712.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 15,
+    "price": "₹188.7",
+    "star": 4.2,
+    "rating": 46,
+    "discount": "26%",
+    "dis_price": 188.7,
+    "brand": "HUGGIES",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 158,
+    "title": "Huggies Baby Wonder Pants Large Size Diaper Pants - 42 Count",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/M41112/huggies-wonder-pants-large-size-diaper-pants-42-count-2-1641792885.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 15,
+    "price": "₹645",
+    "star": 3.6,
+    "rating": 65,
+    "discount": "25%",
+    "dis_price": 483.75,
+    "brand": "HUGGIES",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 159,
+    "title": "Huggies Dry Baby Pants Diapers (Extra Large Size) - 17 Count",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/C05543/huggies-dry-pants-diapers-extra-large-size-17-count-1-1641789059.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 15,
+    "price": "₹450",
+    "star": 5.4,
+    "rating": 68,
+    "discount": "25%",
+    "dis_price": 337.5,
+    "brand": "HUGGIES",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 160,
+    "title": "Huggies Baby Wonder Pants Diaper Pants Combo Pack Of 2, 24 Counts Per Pack (48 Counts) Xs",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/K29632/huggies-wonder-pants-extra-small-size-diaper-pants-combo-pack-of-2-24-counts-per-pack-48-counts-2-1641792407.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 15,
+    "price": "₹775",
+    "star": 3.5,
+    "rating": 34,
+    "discount": "25%",
+    "dis_price": 581.25,
+    "brand": "HUGGIES",
+    "Exp_Date": "30/18/2023"
+  },
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  {
+    "id": 161,
+    "title": "Harpic Flushmatic Aquamarine Toilet Block (Twin Pack) Packet Of 100 G",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/J75776/harpic-flushmatic-aquamarine-toilet-block-twin-pack-packet-of-100-g-2-1641793031.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 16,
+    "price": "₹199.00",
+    "star": 3.5,
+    "rating": 35,
+    "discount": "37%",
+    "dis_price": 125.37,
+    "brand": "HARPIC",
+    "Exp_Date": "30/18/2024"
+  },
+  {
+    "id": 162,
+    "title": "Harpic Naturofresh Floral Toilet Cleaner Bottle Of 500 Ml",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/U53362/harpic-naturofresh-floral-toilet-cleaner-bottle-of-500-ml-2-1647509760.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 16,
+    "price": "₹65.00",
+    "star": 4.6,
+    "rating": 35,
+    "discount": "36%",
+    "dis_price": 41.6,
+    "brand": "HARPIC",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 163,
+    "title": "Harpic Flushmatic Pine Toilet Block (Twin Pack) Packet Of 100 G",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/B10503/harpic-flushmatic-pine-toilet-block-twin-pack-packet-of-100-g-2-1641793397.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 16,
+    "price": "75",
+    "star": 3.6,
+    "rating": 86,
+    "discount": "29%",
+    "dis_price": 53.25,
+    "brand": "HARPIC",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 164,
+    "title": "Harpic Flushmatic Aquamarine Toilet Block (Pack Of 3) Packet Of 50 G",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/S66860/harpic-flushmatic-aquamarine-toilet-block-pack-of-3-packet-of-50-g-2-1641793397.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 16,
+    "price": "₹58",
+    "star": 2.7,
+    "rating": 34,
+    "discount": "29%",
+    "dis_price": 41.18,
+    "brand": "HARPIC",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 165,
+    "title": "Harpic Active Platinum Marine Toilet Cleaner Bottle Of 500 Ml",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/H88495/harpic-active-platinum-marine-toilet-cleaner-bottle-of-500-ml-2-1641793400.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 16,
+    "price": "₹99.00",
+    "star": 4.5,
+    "rating": 34,
+    "discount": "29%",
+    "dis_price": 70.29,
+    "brand": "HARPIC",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 166,
+    "title": "Harpic Hygienic Lavender Toilet Block Packet Of 26 G",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/V11600/harpic-hygienic-lavender-toilet-block-packet-of-26-g-2-1641792570.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 16,
+    "price": "₹53.00",
+    "star": 5,
+    "rating": 80,
+    "discount": "27%",
+    "dis_price": 38.69,
+    "brand": "HARPIC",
+    "Exp_Date": "30/18/2023"
+  },
+
+  {
+    "id": 167,
+    "title": "Harpic Naturofresh Citrus Toilet Cleaner Bottle Of 500 Ml",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/O56872/harpic-naturofresh-citrus-toilet-cleaner-bottle-of-500-ml-2-1641793026.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 16,
+    "price": "₹188.7",
+    "star": 4.2,
+    "rating": 46,
+    "discount": "26%",
+    "dis_price": 188.7,
+    "brand": "HARPIC",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 168,
+    "title": "Harpic Hygienic Citrus Toilet Block Packet Of 26 G",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/E57022/harpic-hygienic-citrus-toilet-block-packet-of-26-g-2-1641792567.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 16,
+    "price": "₹645",
+    "star": 3.6,
+    "rating": 65,
+    "discount": "25%",
+    "dis_price": 483.75,
+    "brand": "HARPIC",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 169,
+    "title": "Harpic 'Germ & Stain Blaster' Disinfectant Toilet Cleaner, Citrus - 750ml",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/F21944/harpic-germ-stain-blaster-disinfectant-toilet-cleaner-citrus-750ml-2-1641790628.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 16,
+    "price": "₹450",
+    "star": 5.4,
+    "rating": 68,
+    "discount": "25%",
+    "dis_price": 337.5,
+    "brand": "HARPIC",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 170,
+    "title": "Harpic White And Shine Bleach Toilet Cleaner Bottle Of 500 Ml",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/Q99919/harpic-white-and-shine-bleach-toilet-cleaner-bottle-of-500-ml-2-1641793024.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 16,
+    "price": "₹775",
+    "star": 3.5,
+    "rating": 34,
+    "discount": "25%",
+    "dis_price": 581.25,
+    "brand": "HARPIC",
+    "Exp_Date": "30/18/2023"
+  },
+
+
+
+
+
+
+  
+
+
+  {
+    "id": 171,
+    "title": "Johnson'S Baby Lotion - 500m",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/097332/johnsons-baby-lotion-500ml-2-1641398956.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 17,
+    "price": "₹199.00",
+    "star": 3.5,
+    "rating": 35,
+    "discount": "37%",
+    "dis_price": 125.37,
+    "brand": "JOHNSONS",
+    "Exp_Date": "30/18/2024"
+  },
+  {
+    "id": 172,
+    "title": "Johnson'S Baby Cottontouch Newborn Head - To - Toe Bath - 500ml",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/V31497/johnsons-baby-cottontouch-newborn-head-to-toe-bath-500ml-2-1641791251.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 17,
+    "price": "₹65.00",
+    "star": 4.6,
+    "rating": 35,
+    "discount": "36%",
+    "dis_price": 41.6,
+    "brand": "JOHNSONS",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 173,
+    "title": "Johnson'S Active Kids Soft & Smooth Shampoo 200ml",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/L97391/johnsons-active-kids-soft-smooth-shampoo-200ml-2-1641788352.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 17,
+    "price": "75",
+    "star": 3.6,
+    "rating": 86,
+    "discount": "29%",
+    "dis_price": 53.25,
+    "brand": "JOHNSONS",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 174,
+    "title": "Johnson'S Active Kids Clean & Fresh Shampoo 200ml",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/T69521/johnsons-active-kids-clean-fresh-shampoo-200ml-2-1641788468.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 17,
+    "price": "₹58",
+    "star": 2.7,
+    "rating": 34,
+    "discount": "29%",
+    "dis_price": 41.18,
+    "brand": "JOHNSONS",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 175,
+    "title": "Johnson'S Baby Care Collection Gift Set With Organic Cotton Baby Dress And Milestone Book (10 Items)",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/O59039/johnsons-baby-care-collection-gift-set-with-organic-cotton-baby-dress-and-milestone-book-10-items-2-1648464536.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 17,
+    "price": "₹99.00",
+    "star": 4.5,
+    "rating": 34,
+    "discount": "29%",
+    "dis_price": 70.29,
+    "brand": "JOHNSONS",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 176,
+    "title": "Johnson'S Baby Cotton Buds 15 Pieces",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/U64495/johnsons-baby-cotton-buds-15-pieces-2-1641788355.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 17,
+    "price": "₹53.00",
+    "star": 5,
+    "rating": 80,
+    "discount": "27%",
+    "dis_price": 38.69,
+    "brand": "JOHNSONS",
+    "Exp_Date": "30/18/2023"
+  },
+
+  {
+    "id": 177,
+    "title": "Johnsons Baby Soap Blossoms - 75g With New Easy Grip Shape",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/C05758/johnsons-baby-soap-blossoms-75g-with-new-easy-grip-shape-1-1641789475.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 17,
+    "price": "₹188.7",
+    "star": 4.2,
+    "rating": 46,
+    "discount": "26%",
+    "dis_price": 188.7,
+    "brand": "JOHNSONS",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 178,
+    "title": "Johnson'S Baby Oil Bottle Of 100 Ml",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/097360/johnsons-baby-oil-bottle-of-100-ml-2-1641398869.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 17,
+    "price": "₹645",
+    "star": 3.6,
+    "rating": 65,
+    "discount": "25%",
+    "dis_price": 483.75,
+    "brand": "JOHNSONS",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 179,
+    "title": "Johnson'S Baby Cotton Buds - 75 Stems/150 Swabs",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/B34401/johnsons-baby-cotton-buds-150s-2-1644823780.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 17,
+    "price": "₹450",
+    "star": 5.4,
+    "rating": 68,
+    "discount": "25%",
+    "dis_price": 337.5,
+    "brand": "JOHNSONS",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 180,
+    "title": "Johnson'S Baby Oil - 500ml",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/097370/johnsons-baby-oil-500ml-2-1641399059.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 17,
+    "price": "₹775",
+    "star": 3.5,
+    "rating": 34,
+    "discount": "25%",
+    "dis_price": 581.25,
+    "brand": "JOHNSONS",
+    "Exp_Date": "30/18/2023"
+  },
+
+
+
+
+
+
+  
+
+
+{
+    "id": 181,
+    "title": "Dr Vaidya'S My Prash Mychyawanprash For Diabetes Care-500 Gms",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/G26027/dr-vaidyas-my-prash-mychyawanprash-for-diabetes-care-500-gms-2-1641452750.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 18,
+    "price": "₹199.00",
+    "star": 3.5,
+    "rating": 35,
+    "discount": "37%",
+    "dis_price": 125.37,
+    "brand": "Dr Vaidya's",
+    "Exp_Date": "30/18/2024"
+  },
+  {
+    "id": 182,
+    "title": "Dr. Vaidya'S Bronkoherb Powder 50 Gm For Asthma",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/W70861/dr-vaidyas-bronkoherb-powder-50-gm-for-asthma-2-1641790904.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 18,
+    "price": "₹65.00",
+    "star": 4.6,
+    "rating": 35,
+    "discount": "36%",
+    "dis_price": 41.6,
+    "brand": "Dr Vaidya's",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 183,
+    "title": "Dr Vaidya'S Mood Boost-30 Capsules - Pack Of 3",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/H24752/dr-vaidyas-mood-boost-30-capsules-pack-of-3-2-1642495051.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 18,
+    "price": "75",
+    "star": 3.6,
+    "rating": 86,
+    "discount": "29%",
+    "dis_price": 53.25,
+    "brand": "Dr Vaidya's",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 184,
+    "title": "Dr. Vaidya'S Herbo24turbo (30 Capsules X 3)",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/H45761/dr-vaidyas-herbo24turbo-30-capsules-x-3-2-1641792827.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 18,
+    "price": "₹58",
+    "star": 2.7,
+    "rating": 34,
+    "discount": "29%",
+    "dis_price": 41.18,
+    "brand": "Dr Vaidya's",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 185,
+    "title": "Dr. Vaidya'S Stress Relief -30 Capsules",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/X28111/dr-vaidyas-stress-relief-30-capsules-2-1641791114.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 18,
+    "price": "₹99.00",
+    "star": 4.5,
+    "rating": 34,
+    "discount": "29%",
+    "dis_price": 70.29,
+    "brand": "Dr Vaidya's",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 186,
+    "title": "Dr. Vaidya'S Ayurvedic Women'S Pack",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/H02006/dr-vaidyas-ayurvedic-womens-pack-2-1641792108.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 18,
+    "price": "₹53.00",
+    "star": 5,
+    "rating": 80,
+    "discount": "27%",
+    "dis_price": 38.69,
+    "brand": "Dr Vaidya's",
+    "Exp_Date": "30/18/2023"
+  },
+
+  {
+    "id": 187,
+    "title": "Dr. Vaidya'S Allergy And Cold Pack - Allergic Pills ( 24 X 4 ), Herbofit - 30 Capsules, Sung-Ho 10g",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/N82504/dr-vaidyas-allergy-and-cold-pack-allergic-pills-24-x-4-herbofit-30-capsules-sung-ho-10g-2-1641792828.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 18,
+    "price": "₹188.7",
+    "star": 4.2,
+    "rating": 46,
+    "discount": "26%",
+    "dis_price": 188.7,
+    "brand": "Dr Vaidya's",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 188,
+    "title": "Dr Vaidya'S Period Wellness -30 Capsules - Pack Of 2",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/L26629/dr-vaidyas-period-wellness-30-capsules-pack-of-2-2-1642495308.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 18,
+    "price": "₹645",
+    "star": 3.6,
+    "rating": 65,
+    "discount": "25%",
+    "dis_price": 483.75,
+    "brand": "Dr Vaidya's",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 189,
+    "title": "Dr.Vaidya'S Natural Beauty Pack Herbal Beauty Pack(Herbocharm-50gx1herbaal-200mlx1herbocool-200mlx1)",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/K90631/drvaidyas-natural-beauty-pack-herbal-beauty-packherbocharm-50gx1herbaal-200mlx1herbocool-200mlx1-2-1641792108.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 18,
+    "price": "₹450",
+    "star": 5.4,
+    "rating": 68,
+    "discount": "25%",
+    "dis_price": 337.5,
+    "brand": "Dr Vaidya's",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 190,
+    "title": "Dr Vaidyas Ayurvedic Fitness Pack(Herbobuild 30 Caps Chyawan 30 Caps)",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/P13112/dr-vaidyas-ayurvedic-fitness-pack-herbofit-x-1-herbobuild-x-1-2-1648733402.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 18,
+    "price": "₹775",
+    "star": 3.5,
+    "rating": 34,
+    "discount": "25%",
+    "dis_price": 581.25,
+    "brand": "Dr Vaidya's",
+    "Exp_Date": "30/18/2023"
+  }
+
+
+
+
+
   ]
 }
