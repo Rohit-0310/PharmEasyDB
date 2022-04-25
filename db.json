@@ -2298,13 +2298,6 @@
 
 
 
-
-
-
-
-  
-
-
   {
     "id": 161,
     "title": "Harpic Flushmatic Aquamarine Toilet Block (Twin Pack) Packet Of 100 G",
@@ -2578,14 +2571,7 @@
   },
 
 
-
-
-
-
-  
-
-
-{
+    {
     "id": 181,
     "title": "Dr Vaidya'S My Prash Mychyawanprash For Diabetes Care-500 Gms",
     "img": "https://cdn01.pharmeasy.in/dam/products_otc/G26027/dr-vaidyas-my-prash-mychyawanprash-for-diabetes-care-500-gms-2-1641452750.jpg?dim=320x320&dpr=1&q=100",
@@ -2715,7 +2701,288 @@
     "dis_price": 581.25,
     "brand": "Dr Vaidya's",
     "Exp_Date": "30/18/2023"
+  },
+
+
+
+{
+    "id": 191,
+    "title": "Pigeon Baby Milky Soap - 75 Gm ( Pack Of 3 )",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/W95110/pigeon-baby-milky-soap-75-gm-pack-of-3--2-1643881191.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 20,
+    "price": "₹199.00",
+    "star": 3.5,
+    "rating": 35,
+    "discount": "37%",
+    "dis_price": 125.37,
+    "brand": "PIGEON",
+    "Exp_Date": "30/18/2024"
+  },
+  {
+    "id": 192,
+    "title": "Pigeon Liquid Cleanser Bottle Pin - 200 Ml",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/T46007/pigeon-liquid-cleanser-bottle-pin-200-ml-2-1641790779.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 20,
+    "price": "₹65.00",
+    "star": 4.6,
+    "rating": 35,
+    "discount": "36%",
+    "dis_price": 41.6,
+    "brand": "PIGEON",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 193,
+    "title": "Pigeon Baby Moisturizing Lotion - 200 Ml",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/Z19950/pigeon-baby-moisturizing-lotion-200-ml-1-1641790766.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 20,
+    "price": "75",
+    "star": 3.6,
+    "rating": 86,
+    "discount": "29%",
+    "dis_price": 53.25,
+    "brand": "PIGEON",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 194,
+    "title": "Pigeon Multifunctional Laundry Detergent, Lemon Grass - 1.2l",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/D99994/pigeon-multifunctional-laundry-detergent-lemon-grass-12l-2-1643956653.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 20,
+    "price": "₹58",
+    "star": 2.7,
+    "rating": 34,
+    "discount": "29%",
+    "dis_price": 41.18,
+    "brand": "PIGEON",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 195,
+    "title": "Pigeon Pigeon Baby Powder With Fragrance - 200gm",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/O99183/pigeon-pigeon-baby-powder-with-fragrance-200gm-2-1641790758.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 20,
+    "price": "₹99.00",
+    "star": 4.5,
+    "rating": 34,
+    "discount": "29%",
+    "dis_price": 70.29,
+    "brand": "PIGEON",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 196,
+    "title": "Pigeon Baby Laundary Detergent - 500ml Refill",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/E91997/pigeon-baby-laundary-detergent-500ml-refill-2-1643956747.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 20,
+    "price": "₹53.00",
+    "star": 5,
+    "rating": 80,
+    "discount": "27%",
+    "dis_price": 38.69,
+    "brand": "PIGEON",
+    "Exp_Date": "30/18/2023"
+  },
+
+  {
+    "id": 197,
+    "title": "Pigeon Liquid Cleanser Bottle - 500 Ml",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/L07388/pigeon-liquid-cleanser-bottle-500-ml-2-1641791250.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 20,
+    "price": "₹188.7",
+    "star": 4.2,
+    "rating": 46,
+    "discount": "26%",
+    "dis_price": 188.7,
+    "brand": "PIGEON",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 198,
+    "title": "Pigeon Breast Pads Comfy Feel - 36 Pcs",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/V89052/pigeon-breast-pads-comfy-feel-36-pcs-2-1643881044.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 20,
+    "price": "₹645",
+    "star": 3.6,
+    "rating": 65,
+    "discount": "25%",
+    "dis_price": 483.75,
+    "brand": "PIGEON",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 199,
+    "title": "Pigeon Liquid Cleanser, Refill - 650ml",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/T37686/pigeon-liquid-cleanser-refill-650ml-2-1643880775.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 20,
+    "price": "₹450",
+    "star": 5.4,
+    "rating": 68,
+    "discount": "25%",
+    "dis_price": 337.5,
+    "brand": "PIGEON",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 200,
+    "title": "Pigeon Baby Soothing Oil - 200 Ml",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/E20758/pigeon-baby-soothing-oil-200-ml-1-1641790509.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 20,
+    "price": "₹775",
+    "star": 3.5,
+    "rating": 34,
+    "discount": "25%",
+    "dis_price": 581.25,
+    "brand": "PIGEON",
+    "Exp_Date": "30/18/2023"
+  },
+
+
+
+
+
+
+
+
+
+
+  
+
+
+{
+    "id": 111,
+    "title": "Biluma Advance Night Cream - 45 Gm",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/G87793/biluma-advance-night-cream-45-gm-2-1647515408.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 19,
+    "price": "₹199.00",
+    "star": 3.5,
+    "rating": 35,
+    "discount": "37%",
+    "dis_price": 125.37,
+    "brand": "HANSAPLAST",
+    "Exp_Date": "30/18/2024"
+  },
+  {
+    "id": 112,
+    "title": "Biluma Advance Day Cream - 50 Gm",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/Q03780/biluma-advance-day-cream-50-gm-2-1647515636.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 19,
+    "price": "₹65.00",
+    "star": 4.6,
+    "rating": 35,
+    "discount": "36%",
+    "dis_price": 41.6,
+    "brand": "HANSAPLAST",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 113,
+    "title": "Biluma Advance Cream For Sensitive Areas - 25 Gm",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/R52383/biluma-advance-cream-for-sensitive-areas-25-gm-2-1647515214.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 19,
+    "price": "75",
+    "star": 3.6,
+    "rating": 86,
+    "discount": "29%",
+    "dis_price": 53.25,
+    "brand": "HANSAPLAST",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 114,
+    "title": "Biluma Advance Skin Brightening Face Wash - 100 Ml",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/E28962/biluma-advance-skin-brightening-face-wash-100-ml-2-1647515466.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 19,
+    "price": "₹58",
+    "star": 2.7,
+    "rating": 34,
+    "discount": "29%",
+    "dis_price": 41.18,
+    "brand": "HANSAPLAST",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 115,
+    "title": "Biluma Advance Skin Lightening Tube Of 45gm Lotion",
+    "img": "https://cdn01.pharmeasy.in/dam/products/E60324/biluma-advance-skin-lightening-tube-of-45gm-lotion-1-1641538440.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 19,
+    "price": "₹99.00",
+    "star": 4.5,
+    "rating": 34,
+    "discount": "29%",
+    "dis_price": 70.29,
+    "brand": "HANSAPLAST",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 116,
+    "title": "Biluma Advance Skin Brightening Lotion - 45 Gm",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/J03900/biluma-advance-skin-brightening-lotion-45-gm-2-1647515653.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 19,
+    "price": "₹53.00",
+    "star": 5,
+    "rating": 80,
+    "discount": "27%",
+    "dis_price": 38.69,
+    "brand": "HANSAPLAST",
+    "Exp_Date": "30/18/2023"
+  },
+
+  {
+    "id": 117,
+    "title": "Biluma Cream",
+    "img": "https://cdn01.pharmeasy.in/dam/products/254563/biluma-cream-1-1641532074.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 19,
+    "price": "₹188.7",
+    "star": 4.2,
+    "rating": 46,
+    "discount": "26%",
+    "dis_price": 188.7,
+    "brand": "HANSAPLAST",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 118,
+    "title": "Biluma Advance Night Cream - 45 Gm",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/G87793/biluma-advance-night-cream-45-gm-2-1647515408.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 19,
+    "price": "₹645",
+    "star": 3.6,
+    "rating": 65,
+    "discount": "25%",
+    "dis_price": 483.75,
+    "brand": "HANSAPLAST",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 119,
+    "title": "Biluma Advance Skin Brightening Face Wash - 100 Ml",
+    "img": "https://cdn01.pharmeasy.in/dam/products_otc/E28962/biluma-advance-skin-brightening-face-wash-100-ml-2-1647515466.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 19,
+    "price": "₹450",
+    "star": 5.4,
+    "rating": 68,
+    "discount": "25%",
+    "dis_price": 337.5,
+    "brand": "HANSAPLAST",
+    "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 120,
+    "title": "Biluma Cream",
+    "img": "https://cdn01.pharmeasy.in/dam/products/254563/biluma-cream-1-1641532074.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 19,
+    "price": "₹775",
+    "star": 3.5,
+    "rating": 34,
+    "discount": "25%",
+    "dis_price": 581.25,
+    "brand": "HANSAPLAST",
+    "Exp_Date": "30/18/2023"
   }
+
+
+
 
 
 
