@@ -1291,6 +1291,144 @@
       "dis_price": 581.25,
       "brand": "BEARDO",
       "Exp_Date": "30/18/2023"
+    },
+
+
+
+
+
+
+
+    {
+      "id": 91,
+      "title": "Revital H Health Supplement Capsules Strip Of 10",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/270551/revital-h-health-supplement-capsules-strip-of-10-1-1643883344.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 6,
+      "price": "₹199.00",
+      "star": 3.5,
+      "rating": 35,
+      "discount": "37%",
+      "dis_price": 125.37,
+      "brand": "REVITAL",
+      "Exp_Date": "30/18/2024"
+    },
+    {
+      "id": 92,
+      "title": "Revital H Health Supplement Capsules Bottle Of 30",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-2-1643883338.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 6,
+      "price": "₹65.00",
+      "star": 4.6,
+      "rating": 35,
+      "discount": "36%",
+      "dis_price": 41.6,
+      "brand": "REVITAL",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 93,
+      "title": "Revital H Woman Health Supplement Tablets Bottle Of 30",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-woman-health-supplement-tablets-bottle-of-30-1-1643882179.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 6,
+      "price": "75",
+      "star": 3.6,
+      "rating": 86,
+      "discount": "29%",
+      "dis_price": 53.25,
+      "brand": "REVITAL",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 94,
+      "title": "Revital H Woman Health Supplement Tablets Strip Of 10",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-2-1643882786.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 6,
+      "price": "₹58",
+      "star": 2.7,
+      "rating": 34,
+      "discount": "29%",
+      "dis_price": 41.18,
+      "brand": "REVITAL",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 95,
+      "title": "Revital H Health Supplement Combo For Men And Women - 30'S",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/J97688/revital-h-health-supplement-combo-for-men-and-women-30s-2-1642006683.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 6,
+      "price": "₹99.00",
+      "star": 4.5,
+      "rating": 34,
+      "discount": "29%",
+      "dis_price": 70.29,
+      "brand": "REVITAL",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 96,
+      "title": "Revital H Health Supplement Capsules Bottle Of 60",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/281751/revital-h-health-supplement-capsules-bottle-of-60-2-1643883822.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 6,
+      "price": "₹53.00",
+      "star": 5,
+      "rating": 80,
+      "discount": "27%",
+      "dis_price": 38.69,
+      "brand": "REVITAL",
+      "Exp_Date": "30/18/2023"
+    },
+
+    {
+      "id": 97,
+      "title": "Revital H Energy Nxt Choco Almond Bar - 35g",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/A35003/revital-h-energy-nxt-choco-almond-bar-35g-1-1641794959.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 6,
+      "price": "₹188.7",
+      "star": 4.2,
+      "rating": 46,
+      "discount": "26%",
+      "dis_price": 188.7,
+      "brand": "REVITAL",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 98,
+      "title": "Revital H Protein Nxt 10g Protein Bar Coffee Hazelnut - 300g,6 X 50g",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/K66030/revital-h-protein-nxt-10g-protein-bar-coffee-hazelnut-300g-6-x-50g-2-1641794147.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 6,
+      "price": "₹645",
+      "star": 3.6,
+      "rating": 65,
+      "discount": "25%",
+      "dis_price": 483.75,
+      "brand": "REVITAL",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 99,
+      "title": "Revital H Protein Nxt 10g Protein Bar Choco Almond - 50g",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/Z63339/revital-h-protein-nxt-10g-protein-bar-choco-almond-50g-1-1641794949.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 6,
+      "price": "₹450",
+      "star": 5.4,
+      "rating": 68,
+      "discount": "25%",
+      "dis_price": 337.5,
+      "brand": "REVITAL",
+      "Exp_Date": "30/18/2023"
+    },
+    {
+      "id": 100,
+      "title": "Revital H Energy Nxt Yoghurt Berry Bar - 210g,6 X 35g",
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/P41741/revital-h-energy-nxt-yoghurt-berry-bar-210g-6-x-35g-2-1641794600.jpg?dim=320x320&dpr=1&q=100",
+      "categoryId": 6,
+      "price": "₹775",
+      "star": 3.5,
+      "rating": 34,
+      "discount": "25%",
+      "dis_price": 581.25,
+      "brand": "REVITAL",
+      "Exp_Date": "30/18/2023"
     }
   ]
 }
