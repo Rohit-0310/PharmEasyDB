@@ -2979,6 +2979,19 @@
     "dis_price": 581.25,
     "brand": "HANSAPLAST",
     "Exp_Date": "30/18/2023"
+  },
+  {
+    "id": 1001,
+    "title": "Biluma Cream",
+    "img": "https://cdn01.pharmeasy.in/dam/products/254563/biluma-cream-1-1641532074.jpg?dim=320x320&dpr=1&q=100",
+    "categoryId": 20,
+    "price": "₹775",
+    "star": 3.5,
+    "rating": 34,
+    "discount": "25%",
+    "dis_price": 581.25,
+    "brand": "HANSAPLAST",
+    "Exp_Date": "30/18/2023"
   }
 
 
